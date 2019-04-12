@@ -1,0 +1,29 @@
+.red_div
+{
+	border: solid #FF0000 1px;
+}
+.blue_div
+{
+	border: solid #3A00FF 1px;
+}
+.green_div
+{
+	border: solid #1AFF00 1px;
+}
+
+a
+{
+	color: black;
+}
+a:visited
+{
+	color: black;
+}
+a:active
+{
+	color: black;
+}
+a:hover
+{
+	color: black;
+}
